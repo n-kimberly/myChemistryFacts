@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "ssml": "<speak>    You can't freeze helium simply by cooling it to absolute zero. It will freeze if you apply extremely intense pressure. </speak>",
+      "type": "SSML"
+    },
+    "speechletResponse": {
+      "outputSpeech": {
+        "ssml": "<speak>    You can't freeze helium simply by cooling it to absolute zero. It will freeze if you apply extremely intense pressure. </speak>"
+      },
+      "shouldEndSession": true
+    }
+  },
+  "sessionAttributes": {}
+}

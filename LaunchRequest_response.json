@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "ssml": "<speak> Hello, Welcome to chemistry facts. </speak>",
+      "type": "SSML"
+    },
+    "speechletResponse": {
+      "outputSpeech": {
+        "ssml": "<speak> Hello, Welcome to chemistry facts. </speak>"
+      },
+      "shouldEndSession": true
+    }
+  },
+  "sessionAttributes": {}
+}
